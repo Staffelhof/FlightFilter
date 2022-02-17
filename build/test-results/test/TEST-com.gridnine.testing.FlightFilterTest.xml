@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gridnine.testing.FlightFilterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-16T15:11:29" hostname="STAFFBOOK" time="0.017">
+  <properties/>
+  <testcase name="FilterWithAnyOfMultiplePredicatesShouldReturnCorrectValues()" classname="com.gridnine.testing.FlightFilterTest" time="0.017"/>
+  <system-out><![CDATA[[[2022-02-13T18:11|2022-02-19T18:11], [2022-02-19T18:11|2022-02-19T12:11], [2022-02-19T18:11|2022-02-19T20:11], [2022-02-20T01:11|2022-02-20T00:11], [2022-02-19T18:11|2022-02-19T20:11], [2022-02-19T21:11|2022-02-19T22:11], [2022-02-20T00:11|2022-02-20T01:11]]
+[[2022-02-13T18:11|2022-02-19T18:11], [2022-02-19T18:11|2022-02-19T12:11], [2022-02-19T18:11|2022-02-19T20:11], [2022-02-20T01:11|2022-02-20T00:11], [2022-02-19T18:11|2022-02-19T20:11], [2022-02-19T21:11|2022-02-19T22:11], [2022-02-20T00:11|2022-02-20T01:11]]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
